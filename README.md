@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @alishmaster
 - 👀 I’m interested in .ethical hacking & web development.
 - 🌱 I’m currently learning pythone.
-- 💞️ I am happy to be here and I am grateful to the creators of github
--  for accepting me and finally I declare that anyone who accompanies
--  me on the path of knowledge or even teaches me a word has made me
--  their slave. Thank you..
+- 💞️ من خوشحالم ازینکه در میان شما هستم و از گیت هاب تشکر میکنم که مرا در میان خود پذیرفته است همینطور اعلام میکنم هر کس مرا در راه دانش همراهی کند و یا حتی کلامی بمن بیاموزد مرا مدیون خود کرده است صمیمانه تشکر میکنم .🫡🌹🫶🌏🇮🇷🇮🇱🇺🇲🫲🇮🇷🫱🙆‍♀️🤦‍♂️🥵👩‍❤️‍👩💘😂😂😂😂
 - 📫 How to reach me by email : alish.webmaster@gmail.com  
 - 
 
